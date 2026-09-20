@@ -3,7 +3,7 @@
 </head>
 <body>
 <center> 
-    <a href="sharmie.html">ENTER?</p></a> 
+    <a href="sharmie.html">ENTER?</a> 
 </center>
 </body>
 </html>
